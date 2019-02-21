@@ -5,7 +5,9 @@ To do that, i've created a folder structure which is easy and fast to understand
 
 **Please don't nest things infinitely, it's not a good idea.*
 
-Attached is a sample repo with a proposed .gitignore. Keep in mind that this is a *sample*, and not a bare repo to clone and start your project off of. You probably don't even need half of the folders that are there. Learn by practice ;)
+Attached is a sample repo with a proposed .gitignore and .gitattributes.
+
+ Keep in mind that this is a *sample*, and not a bare repo to clone and start your project off of. You probably don't even need half of the folders that are there. Learn by practice ;)
 
 This project has been created using Unity 2018.3.6f1.
 
