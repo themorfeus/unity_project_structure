@@ -23,6 +23,36 @@ This project has been created using Unity 2018.3.6f1.
 - Remember - these are only guidelines, and you should use them as such. Don't take them as a hard set of rules - they can, and should be adjusted to your specific use cases. 
 *But please don't be messy*
 
+### Sample project structure:
+
+**Assets:**
+- _project_name
+  - Materials
+  - Models
+  - Prefabs
+    - Bow
+      - *Bow.prefab*
+      - Models
+        - *bow.fbx*
+        - blend
+          - *bow.blend*
+      - Textures
+      - Scripts
+      - Variants
+        - *Bow_Powerful.prefab*
+        - *Bow_Weak.prefab*
+    - Dummy 
+  - Scenes
+  - Scripts
+  - Textures
+
+You get the idea.
+
+Contributions
+----
+Feel free to contribute, open pull requests, issues, etc.
+I don't promise i  will check them often though.
+
 License
 ----
 
